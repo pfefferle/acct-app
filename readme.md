@@ -1,0 +1,1 @@
+forwards any `acct:` uri to the webfinger.net lookup service <http://webfinger.net/>
